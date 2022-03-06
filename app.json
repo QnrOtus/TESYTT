@@ -13,7 +13,7 @@
       "STRING01": {
         "description": "Telethon String Session",
         "value": "",
-        "required": false
+        "required": true
       },
       "API_ID": {
         "description": "Fill API ID ",
