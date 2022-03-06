@@ -144,7 +144,7 @@ RRAID = [
     "ᑭᗩᑭᗩ KI SᑭEED ᗰTᑕH NHI HO ᖇHI KYᗩ",
     "ᗩᒪE ᗩᒪE TEᖇI ᗰᗩᗩ ᑕHOOD GᗩI KYᗩᗩ ᗰEᖇE HᗩᗩTOO ᗷEETI ᑕHᑌDGᗩII Tᑌ ",
     "ᑕHᑌD GYᗩ ᑭᗩᑭᗩ SEEE ᗷEETI ᗰᑌᒍE ᗩᗩᑕHᗩ NI ᒪᗩGTᗩ Tᑌᗰ KO ᑕHODNE ᗰEᑭᖇ Tᑌᗰ SᗩSTI ᖇᗩᗩND HO 10₹ ᗯᗩLI TᑌᗰHᗩᖇI ᑕHᑌDᗩII ISS ᒪIYE KᖇTᗩHᑌ",
-    "ᗰᗩᗩᒍDᑌᖇ KO KHODNᗩ ᗩᑌᖇ ᗷᗩᗩᑭ KO ᑕHODNᗩ NᗩHI SIKHᗩTEE,
+    "ᗰᗩᗩᒍDᑌᖇ KO KHODNᗩ ᗩᑌᖇ ᗷᗩᗩᑭ KO ᑕHODNᗩ NᗩHI SIKHᗩTEE",
     "SᗩᒪE TEᖇI ᗰᗩᗩ Kᗩ ᗷᗩᒪᗩTT Kᗩᗩᖇ Kᖇ DIYᗩ Hᑌᗩ ᒍISS TᗩᖇIKE SE DᗩNGEᖇOᑌS ᑕHᗩKKO Kᗩ KIYᗩ TᗩHH",
     "KIDSSSS TᑌᗰHᗩᖇI ᗩᗰᗰI KI ᑕHᑌT ᑭᖇ ᗰEᖇᗩ NᗩᗰEE ᒍᗩᗩ Kᖇ DEKH TEᖇI ᗰᗩᗩ ONᒪYᖴᗩNS KI ᖇᗩNND HᗩI",
     "YE ᒪᗩDNGE ᗷᗩᑭᑭ SE INKI ᗰᗩᗩ ᑕHOD Dᗩᗩᗩᒪᗩ ᗰE ᗷᗩᗩᑭ SE ᗷᗩKᑕHODI KᗩᖇENGE",
