@@ -1428,13 +1428,12 @@ async def spam(e):
                     await asyncio.sleep(0.0)
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
-
-
+            
 ##############
 ##############
 ##############
 ##############            
-
+            
 @str1.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 @str2.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 @str3.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
@@ -1466,7 +1465,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 async def spam(e):
-        usage = "〄 ╚» ⟦★𓆩ᏒⲞⲞᗪ𓆪★⟧«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗥𝗮𝗶𝗱×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
+    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗥𝗮𝗶𝗱\n\nCommand:\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1500,7 +1499,12 @@ async def spam(e):
                     await e.client.send_message(e.chat_id, caption)
                     await asyncio.sleep(0.0)
         else:
-            await e.reply(usage, parse_mode=None, link_preview=None )
+            await e.reply(usage, parse_mode=None, link_preview=None )            
+##############
+##############
+##############
+##############            
+
 
 ##############
 ##############
